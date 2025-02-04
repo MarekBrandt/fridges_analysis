@@ -1,4 +1,4 @@
-To run the notebook on your environment, you need to install all packages from requirements.txt file.
+To run the notebook on your environment, you need to install all packages from requirements.txt file and then run the command `jupyter notebook`
 
 The main.ipynb file is the main and only notebook of the project. There is a markdown header division beetwen next sections of the project.
 
